@@ -37,3 +37,19 @@ letter-spacing: 0.03em;
 
 color: #FFFFFF;
 }
+
+
+#bott1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 490px;
+    top: 570px;
+    
+    background: #FFFFFF;
+    border: 3px solid #000000;
+    border-radius: 10px;
+    
+}
